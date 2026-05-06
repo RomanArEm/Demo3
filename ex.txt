@@ -1,1 +1,5 @@
 12312312312
+main
+  {
+    println("example");
+  }
